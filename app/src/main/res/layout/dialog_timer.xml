@@ -1,0 +1,36 @@
+<!-- dialog_timer.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/off_white_secondary_backgrounds">
+
+    <EditText
+        android:id="@+id/etTimerMinutes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="@string/enter_minutes"
+        android:padding="16dp"/>
+
+    <Button
+        android:id="@+id/btnSetTimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/set_timer"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/light_orange_highlights_buttons"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/there_is_a_timer"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:padding="20dp"/>
+
+
+</LinearLayout>

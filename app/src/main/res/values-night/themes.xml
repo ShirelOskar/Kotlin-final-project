@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FunToRead" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/main_background_hit</item>
+        <item name="colorPrimaryVariant">@color/main_background_hit</item>
+        <item name="colorOnPrimary">@color/off_white_secondary_backgrounds</item>
+    </style>
+
+    <style name="Theme.FunToRead" parent="Base.Theme.FunToRead" />
+
+    <!-- Custom Action Bar Style -->
+    <style name="MyActionBar" parent="Widget.Material3.Toolbar">
+        <item name="background">@color/main_background_hit</item>
+        <item name="titleTextColor">@color/black</item>
+    </style>
+</resources>

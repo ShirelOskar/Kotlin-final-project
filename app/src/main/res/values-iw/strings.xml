@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">כיף לקרוא</string>
+    <string name="choose_url">בחר קישור</string>
+    <string name="enter_book_title">הזן כותרת ספר</string>
+    <string name="enter_book_description">הזן תיאור ספר</string>
+
+    <string name="to_read">לקריאה</string>
+    <string name="already_read">כבר נקרא</string>
+
+    <string name="rate_the_book">דירוג הספר</string>
+    <string name="enter_review_optional">הזן ביקורת (לא חובה)</string>
+    <string name="add_a_book_image">" הוסף תמונת ספר"</string>
+    <string name="add_book">הוסף ספר</string>
+    <string name="enter_new_book_title">הזן כותרת ספר חדשה</string>
+    <string name="enter_new_book_description">הזן תיאור ספר חדש</string>
+    <string name="save_book">שמור ספר</string>
+    <string name="my_books">הספרים שלי:</string>
+    <string name="to_read_books">" ספרים לקריאה:"</string>
+    <string name="already_read_books">ספרים שכבר נקראו:</string>
+    <string name="all_books">כל הספרים:</string>
+    <string name="enter_minutes">הזן דקות</string>
+    <string name="set_timer">הגדר טיימר</string>
+    <string name="main_item_title">כותרת פריט ראשית</string>
+    <string name="book_title">כותרת הספר!</string>
+    <string name="edittext_input_write_url">הקלד כדי לכתוב כתובת URL</string>
+    <string name="add_url">הוסף כתובת URL</string>
+    <string name="review">ביקורת:</string>
+    <string name="permission_denied">ההרשאה נדחתה</string>
+    <string name="permissions_needed">נדרשות הרשאות</string>
+    <string name="permissions_needed_message_for_alarms">אפליקציה זו זקוקה להרשאות כדי להציג התראות עבור אזעקות.</string>
+    <string name="OK">אישור</string>
+    <string name="confirm_delete">אשר מחיקה</string>
+    <string name="YES">כן</string>
+    <string name="NO">לא</string>
+    <string name="item_deleted">הפריט נמחק</string>
+    <string name="items_deleted">פריטים נמחקו</string>
+    <string name="message_when_deleting_all_items">האם אתה בטוח שברצונך למחוק את כל הפריטים?</string>
+    <string name="select_image_source">בחר מקור תמונה</string>
+    <string name="take_a_picture">צלם תמונה</string>
+    <string name="choose_from_gallery">בחר מהגלריה</string>
+    <string name="confirm_delete_message">האם הינך בטוח שברצונך למחוק פריט זה?</string>
+    <string name="Timer_Expired">הזמן נגמר</string>
+    <string name="Your_reading_time_has_ended">זמן הקריאה שלך נגמר.</string>
+    <string name="Please_enter_a_valid_number_of_minutes">יש להקיש מספר חוקי של דקות.</string>
+    <string name="Failed_to_set_alarm">קביעת ההתראה נכשלה</string>
+    <string name="Alarm_set_for">ההתראה נקבעה ל</string>
+    <string name="minutes_from_now">" דקות מעכשיו"</string>
+    <string name="change_a_book_image">שינוי תמונת הספר</string>
+    <string name="save_book_change">שמור שינויים בספר</string>
+    <string name="missing_title">שם הספר חסר</string>
+    <string name="Camera_permission_is_required">דרוש הרשאות לצילום תמונה</string>
+    <string name="Failed_to_take_picture">צילום תמונה נכשל</string>
+    <string name="add_new_book">הוסף ספר חדש:</string>
+    <string name="change_book">שינוי פרטי הספר:</string>
+    <string name="total_reading_time">זמן קריאה כולל: %d דקות </string>
+    <string name="there_is_a_timer">אם קיים טיימר ,הטיימר החדש יחליף אותו.</string>
+</resources>

@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Fun to Read</string>
+    <string name="choose_url">choose_url</string>
+    <string name="enter_book_title">Enter Book Title</string>
+    <string name="enter_book_description">Enter Book Description</string>
+
+    <string name="to_read">To Read</string>
+    <string name="already_read">Already Read</string>
+
+    <string name="rate_the_book">Rate the book:</string>
+    <string name="enter_review_optional">Enter Review (Optional)</string>
+    <string name="add_a_book_image">Add a book image</string>
+    <string name="add_book">Add Book</string>
+    <string name="enter_new_book_title">Enter New Book Title</string>
+    <string name="enter_new_book_description">Enter New Book Description</string>
+    <string name="save_book">Save Book</string>
+    <string name="my_books">My Books:</string>
+    <string name="to_read_books">To Read Books:</string>
+    <string name="already_read_books">Already Read Books:</string>
+    <string name="all_books">All Books:</string>
+    <string name="enter_minutes">Enter minutes</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="main_item_title">Main Item Title</string>
+    <string name="book_title">book title!</string>
+    <string name="edittext_input_write_url">Type to write url</string>
+    <string name="add_url">Add URL</string>
+
+    <string name="review">Review:</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="missing_title">Book title is missing</string>
+    <string name="permissions_needed">Permissions Needed</string>
+    <string name="permissions_needed_message_for_alarms">This app needs permissions to show notifications for alarms.</string>
+    <string name="OK">OK</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="message_when_deleting_all_items">Are you sure you want to delete all items?</string>
+    <string name="YES">Yes</string>
+    <string name="NO">NO</string>
+
+    <string name="item_deleted">item deleted</string>
+    <string name="confirm_delete_message">Are you sure you want to delete the item?</string>
+    <string name="items_deleted">Items deleted</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="select_image_source">Select Image Source</string>
+
+    <string name="Timer_Expired"> Timer Expired</string>
+    <string name="Your_reading_time_has_ended">Your reading time has ended.</string>
+    <string name="Please_enter_a_valid_number_of_minutes">Please enter a valid number of minutes</string>
+    <string name="Alarm_set_for"> Alarm set for</string>
+    <string name="Failed_to_set_alarm"> Failed to set alarm:</string>
+    <string name="minutes_from_now"> minutes from now</string>
+
+    <string name="change_a_book_image">Change the book image</string>
+    <string name="save_book_change">Save book changes</string>
+    <string name="Failed_to_take_picture">Failed to take picture</string>
+    <string name="Camera_permission_is_required">Camera permission is required to take pictures</string>
+    <string name="add_new_book">Add A New Book:</string>
+    <string name="change_book">Change The Book Info:</string>
+    <string name="total_reading_time">Total Reading Time: %d minutes</string>
+    <string name="there_is_a_timer">If there is a timer, the new timer will override it.</string>
+
+</resources>

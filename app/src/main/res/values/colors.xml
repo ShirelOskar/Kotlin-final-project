@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_purple">#CCBCEA</color>
+    <color name="dark_purple_Default">#6750A4</color>
+
+    <color name="main_background_hit">#009999</color>
+    <color name="dark_green_fonts">#002f31</color>
+    <color name="light_orange_highlights_buttons">#ff8749</color>
+    <color name="off_white_secondary_backgrounds">#e6f4f1</color>
+    <color name="menu_background_color">#73c6c5</color>
+</resources>
